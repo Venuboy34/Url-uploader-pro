@@ -23,7 +23,7 @@ class Config:
     SESSION_STR = os.environ.get("SESSION_STR", "")
     
     # Update channel
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "https://t.me/zerodevbro")
+    UPDATE_CHANNEL = "https://t.me/zerodev2"
     DEVELOPER = "@Zeroboy216"
     BOTUSERNAME = "@Urluploader_z_bot"
     
